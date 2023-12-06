@@ -21,5 +21,3 @@ Use the `make` command to compile the script. Make sure your environment has acc
 ### Execution
 Run the compiled script by providing the paths to the source and destination image folders.
 
-```bash
-./resize_image /path/to/source/images /path/to/destination/folder
